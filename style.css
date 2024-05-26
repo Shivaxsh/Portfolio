@@ -1,17 +1,17 @@
 @font-face {
   font-family: 'The Historia Demo';
-  src: url('fonts/TheHistoriaDemo.woff2') format('woff2'),
-       url('fonts/TheHistoriaDemo.woff') format('woff'),
-       url('fonts/TheHistoriaDemo.ttf') format('truetype');
+  src: url('TheHistoriaDemo.woff2') format('woff2'),
+       url('TheHistoriaDemo.woff') format('woff'),
+       url('TheHistoriaDemo.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'Reckoner';
-  src: url('fonts/Reckoner.woff2') format('woff2'),
-       url('fonts/Reckoner.woff') format('woff'),
-       url('fonts/Reckoner.ttf') format('truetype');
+  src: url('Reckoner.woff2') format('woff2'),
+       url('Reckoner.woff') format('woff'),
+       url('Reckoner.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
